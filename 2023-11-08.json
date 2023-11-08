@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Phelps",
+  "age": 65,
+  "address": {
+    "street": "Ebli Mill",
+    "city": "Nihivu",
+    "state": "NE",
+    "zip": "66039"
+  },
+  "contact": {
+    "phone": "(332) 803-2303",
+    "servicePhone": "800549336"
+  },
+  "birthday": "1976-09-07T19:39:36.410Z",
+  "ip": "10.67.28.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Para ta dib aptaka kuwtiw pazbobco aduce hilzigot ruhsuehe depkulta mul gu fonvudpu zi. Ja wanbenza bugwos caaz lukzi uhe vofed tu rawi uhoj hufmoih paniopu gac sistapsi. Je co hu wip koirucal mel kag elouhuoj kigurah tiz pejdih fugipwot palahkaz to isoso hiit hepip.",
+    "bio": "Ludwube utous nucvu ev ewi lucsa tuhow hed goeji tazuklib fejijag fob zivel. Tileb nahve deldeac ruep iz eldi bi fad mahfun ezkuh ope rejes in. Reb agejop roos lo enbid fubhuif fitfa tofoano mehbo ewfeczag nuwub ecuuw lowfosis. Citlottu ke idies evsoj powpin rehmer ib gebzosas viitorur il azi gapic fazoptuk."
+  },
+  "apiKey": "551a8de702a4f40b0051d2fadbebe0c6da2b5def0dd82eaffa358c01a9c634d7",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}

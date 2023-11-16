@@ -1,0 +1,26 @@
+{
+  "name": "Edward Thornton",
+  "age": 42,
+  "address": {
+    "street": "Reze Boulevard",
+    "city": "Konmiami",
+    "state": "NC",
+    "zip": "78841"
+  },
+  "contact": {
+    "phone": "(364) 355-3320",
+    "servicePhone": "800782743"
+  },
+  "birthday": "1963-11-12T10:11:45.018Z",
+  "ip": "82.252.7.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Du pajobi miolvic puzviz jege eweamemet piuzna zogjah goddoumi gokpuvrut dav gu gazare liowi retgizu gour. Narnuiba zakij fosazu geewoz lukrophi ruta cihebi ne pod heejeuti oho vaizowum lu jo. Igjanci okekuw raide vikwob duvpacraw fuscegvev nekidre pazoh gausovi guwvo puluverij nadivesoj de tiso mefne. Fev ome sot jirgevrah kusi joflap liajizo wa dikiuze cev tubecze paweb.",
+    "bio": "Medlag tehuk adlel wegan madotsu cuv ip visbaswe tek aca utniksaz we mog he hic fasvijin. Hocivwa ziftehir onnibeg su si juz niew ihnurek la memin bawzis zukek. Sawmaaci weow wi akolmo bizco buffewpe kesovju okiedfo zuztu suet tihij rahip suc kaoba. Si mep dubut rima ha notojo jizragis uj lo mubwe ac deva la jin ize ge hopas. Fukateb ipzoh mi cerkes tecjobota opti majuzoh maaz lo gowroj tafej gasho idrasun ip bu. Poajdo fog zumel tuja odusar sebba co av mic an fepejacu bivuho raal vav. Oplam ejogogi be barfado kufor vas buguhi pow nowa ifu ri til vowgatbup izusobo."
+  },
+  "apiKey": "b10a6dfc6200f002410f64440b2a5367085b1d020a4707d768a3a3ef2d86d4f6",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}

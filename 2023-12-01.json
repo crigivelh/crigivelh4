@@ -1,0 +1,26 @@
+{
+  "name": "Dora Sullivan",
+  "age": 48,
+  "address": {
+    "street": "Cutu Manor",
+    "city": "Kerajoh",
+    "state": "ME",
+    "zip": "81953"
+  },
+  "contact": {
+    "phone": "(561) 784-9092",
+    "servicePhone": "800243564"
+  },
+  "birthday": "1985-03-04T06:49:27.002Z",
+  "ip": "214.210.63.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Wi kosamew vubez oddaoso in jil ja fe pofofru demejgas givtag fedgawkot. Dasa hoeso wefnun ketal ejecuscul nub ben vimuaw tahrohuta wuv kepgu evcefca riw foc cu cuz wa wusolore. Bosukuz faesameb vicovteb rurciik pockoji na nekguc na zol nupadwas ripluj iz ag.",
+    "bio": "Jaw tifaz cugmenro ce wurse zifeto cuutu wimezuf irait ovozapguj zesefewe kosuwzu ren. War liljoted je ap omisazfad muame humjeno ifedof tiz ji ijzulzup wokmeido gofjew vi zukemo jadafpuk guma. Ta hi dafze ki godrep ij bun siwcan vu veipeva lugaw udocuma atlot cab sa ni zapiw."
+  },
+  "apiKey": "a38efc4e1f6e446291d734b9185fdd11287199f439700986888bd511a72db0d4",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}

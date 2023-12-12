@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Terry",
+  "age": 56,
+  "address": {
+    "street": "Jokem Square",
+    "city": "Zulduda",
+    "state": "VA",
+    "zip": "86390"
+  },
+  "contact": {
+    "phone": "(603) 772-7429",
+    "servicePhone": "800138392"
+  },
+  "birthday": "2004-07-14T11:27:44.128Z",
+  "ip": "194.243.199.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Mohimrev raseab zoh jalgi witug medego terpa lohewrih pe kosac ah kahekac. Putev laswunni ovreva vasife bic ja mo capitewo niige jel emi visi. Nac po min nik ref ta zutkis bi sodzu roahwul oja hos fipdo es.",
+    "bio": "Pevepos ucoom viljos utu zodesji omaebuvi cod coh jogahbec iz baeswe ido teftuho dik soruwka sothad ufaenacu jumaz. Zojberjoj nice zi dofmog cot reka tiwbub gifeksa ho co zob vopowi gefugab banop elra neh mevo af. We nuteduf ownuv paiwece kokehjol ca jeseh rinegaju im efo izeeri ni kan pumseejo nekri vaj zu bid. Fisdac sojhoj ralic vibitiw wazko ovjan jobif febzevic bueva hucibfod dahunouve bugre re zorim. Zafro sawfedutu beje ko umvac buwmuwrol be robeoda huc jo tocoz jemuhi fap. Zaba tijna waaf simce zo dilrujij lik ustokap upofu ro ha waebna herel. Amma bof da sanzaw vof se juna wunorfi dazod mu zepsuh ijlipwow po votub livzi ib."
+  },
+  "apiKey": "48b0900fe245a833632eb9ebb2773d6c5b1568d645e7b755ac46a2f3a4bc0499",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}

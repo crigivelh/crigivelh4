@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Palmer",
+  "age": 24,
+  "address": {
+    "street": "Nena Street",
+    "city": "Mocire",
+    "state": "FL",
+    "zip": "11915"
+  },
+  "contact": {
+    "phone": "(902) 592-1184",
+    "servicePhone": "800334635"
+  },
+  "birthday": "1965-04-08T19:28:04.066Z",
+  "ip": "106.16.146.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifewe sah nab hih didre patbok oceduz mit neaci liwavuj ged gos. Rok fuluc canac tof je dejomlal nemof caguz adciir julikat ruj jasevsap. Je ife zuf robuco eliaku cef cifnorit tu lehva idi apma hemeg fohihab. Gas faditid nomsodifa tebgut neditome ra da pazgolsid veni it efoakiba bov kabulsi cel kudfubcu uribsab iruhiz. Ro da ikivom de eloloke to ge to dukuko zeczek lulkiw do ler cu bi molcaci. Wipivu edumub rum titjo loldof saso ede nece pumiw ekuci opo di ficwaz ru onda je muvmu. Orijobul iga utnoz judgot uhe dukcum duupiduz odo wakji tuom bodlen zog lu lalopgi ifu.",
+    "bio": "Zimus puzwotoc asmir vezomar feino ho uduhe ecaolab ha oseda de tunug rigvohaba himohu uro lugec. Ac pas dorted wi wafellel jimuwun vuj anaizfon piifa nuzta zamijur nokna rubzik ne zij gicgiti giekocan. Mihsas uf cozescir zivet doivaow bojuuwo gumu jiruje wibpep ifu wil wajwipej mici lipih arukujhi."
+  },
+  "apiKey": "a55bc928ec0b90317887bde7af9bd2b446cac3ca0b4d48eff726d9088ee53381",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}

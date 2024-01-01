@@ -1,0 +1,26 @@
+{
+  "name": "Lou Gill",
+  "age": 58,
+  "address": {
+    "street": "Fiffu Street",
+    "city": "Sugziuzi",
+    "state": "CA",
+    "zip": "25173"
+  },
+  "contact": {
+    "phone": "(514) 894-9957",
+    "servicePhone": "800249778"
+  },
+  "birthday": "1990-10-23T02:46:41.700Z",
+  "ip": "115.12.167.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Gumekawo lo buba fujazi sofirjuh reido iznid dev gongu mokufwo ledoba deibatu uru icala. Juc ne pum web api rueg seewu toip vamoffu tacropek ikaajdu wo kaapoise ru bo. Zo si lohe sudfilup fofgi hedirakak loknabu arorinco acpu lolfabejo vu wi cafap.",
+    "bio": "Ogu joughu fizmimi cuc vogla mewuwriv ennun pohig isweco ubagek pakrimop labrucag febe. Hojibawu pozo kupuji supikcij pego citaw fooho pap pocuf emvute ada cozhol ifpuz firo coveb. Gocibju evnu wofoz togkobgon ma lokcek apu hememu mi wokowvaz mickesco asreup nirpehi omanoz po soitoaki. Tabawo noom tikro denpu gajko fiwcew ihakij apobarur fouhi zamfoko hoz ejawonzac ew lofobjam tus ojulufab aja owo."
+  },
+  "apiKey": "1d06e005db8f3bbe85007a372f871727cc908268621b41c8d9a288b8a0aa5772",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}

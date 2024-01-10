@@ -1,0 +1,26 @@
+{
+  "name": "Alex Greene",
+  "age": 51,
+  "address": {
+    "street": "Uvunen Lane",
+    "city": "Inaesmo",
+    "state": "WY",
+    "zip": "15770"
+  },
+  "contact": {
+    "phone": "(549) 208-4013",
+    "servicePhone": "800482695"
+  },
+  "birthday": "1979-05-27T22:41:34.995Z",
+  "ip": "23.83.231.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Oswa vokubcic evorew dona guit of upukok hopi cak pi wukohgoh ohatoj. Gutdaw cipve gubabuga zusci izu car ta nu bovulgo kedcebvu re sowrowi repepijit. Et isuzu nezalje gosnu pig ze lohagemej fiaji ocoziut offado lugpak rafenuf ri venir.",
+    "bio": "Devini sigcuctu guf mejkowut naga kof duvefi zegulazew ebdad ciuca saka kideju aw ivru ep. Epagu azocar jizeku ucjuge sev jiko kup li salhepe delu ni ij cuon kimagmih esi pez. Padot ikkip hivirkib senfopig pooti koz rouj lupege pi vavzogno omonajah pegkaho titla takjabe."
+  },
+  "apiKey": "700e9ee29d17db22929497e0fb3a8d069f6ad7b8a3ed1fb50570aec8a17d0a7c",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}

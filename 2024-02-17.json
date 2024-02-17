@@ -1,0 +1,26 @@
+{
+  "name": "Lola Butler",
+  "age": 50,
+  "address": {
+    "street": "Oppe Turnpike",
+    "city": "Lipsohwi",
+    "state": "MO",
+    "zip": "38780"
+  },
+  "contact": {
+    "phone": "(913) 685-8208",
+    "servicePhone": "800894199"
+  },
+  "birthday": "2001-03-03T21:47:20.668Z",
+  "ip": "118.203.237.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Faddodle ufwaav cuunijun bow nisged senjefu de karaup fabi gi do paj cepug judhufnak. Ho re giga wibposu kabonow bu zef sur wu bomu ranjud ul ha bezge gewhut. Zid mirotni weze balfolci punir uknop an kejnin anulo nos gemi sapiru id kodollon.",
+    "bio": "Nep kisawe owhul fec mut bemite caomorib cavurap jusam seizisu nilapuv luwir ficfa mule. Cisreiha mab ve esagibnu jibjit avbuw dodapaj fa wir dujoh vovjecbal fid cubokuwo gim. Gec vu ka gi zokip sal su buake uru woceg fopjaej vohek ne zo ungesu mijidzim hajil. Pap mi conu jomupo ju jabrorvo rosa nediuc mezro wubadid cu en pulojo. Avohuzdo kanfug doplup gakweckip uripacon nuhen wu pofcaf vu ze delali rejitini ajiug naro rilsokaz. Zabah jic na obmo re adrezuv jasit gefutojo wo la gimtahfu gofuop bacufa usja zihuv hoh ve siro. Vom woc bujkewoc cof enhew hazvakoke ne jefda lidu musozi zez ig go cec evda wa ilnocac evi."
+  },
+  "apiKey": "bfb1e4e0f252373fb2a1e38dd065e876dc68290270aff292df45a0bf65d47d62",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}

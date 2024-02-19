@@ -1,0 +1,26 @@
+{
+  "name": "Iva Bowen",
+  "age": 59,
+  "address": {
+    "street": "Guzala Ridge",
+    "city": "Kuzpula",
+    "state": "ME",
+    "zip": "78611"
+  },
+  "contact": {
+    "phone": "(357) 342-4930",
+    "servicePhone": "800166156"
+  },
+  "birthday": "2001-02-20T07:45:38.430Z",
+  "ip": "218.123.61.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Zif linos un ref ho togi wiktiddar tar man tezefi matwisor sa uda oluuv pe. Hahiihu sehsiw zovode bugu mokto tabno eha jehrulmut ipduf zavnif boolu jaj jilufet. Zip wefuw canehuf okokedig menhisbu emrogu sajsep ugudjen towul hazodir nevuraf bu.",
+    "bio": "Sogpi uklurcub zi vew se mokenu ro ase de catekhas be okievevom pinbujad taror fi seotbov. Kokotobod ete las poolve duohga ca se fanomeci adidogti nem papir ojuzaw itubo. Piwadel evo peb acfocwih jug ozanalab zatkub neswe beeleli sez bosa tutih taf loncon og saj luhce. Bepda aceja gapor em ci sumedpot ewcubu pakanup vatlufu obtot dirwiijo pug def lapaffu. Nobavgu atueja rirdir zip peknah efutoza zac vasu ig vommoduw bi fiama ahi. Dojosa fih rohwo kocdi hiv docwetime do fekon majom pu bec geluaro es itedoan sempe. Sawluwmaf fidrostu im mej eg wucobfoh gu uhi gu coku we peapo ejubusot oh."
+  },
+  "apiKey": "7376955a3ba9b38710721019628c4ab6bfed8b0f22c48de2d1a9730418d1402a",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}

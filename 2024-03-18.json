@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Fox",
+  "age": 46,
+  "address": {
+    "street": "Nivit Path",
+    "city": "Nomiase",
+    "state": "MN",
+    "zip": "12896"
+  },
+  "contact": {
+    "phone": "(842) 781-5247",
+    "servicePhone": "800291391"
+  },
+  "birthday": "1975-10-03T21:40:46.249Z",
+  "ip": "130.14.68.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Jumlig gumsenhiw fosezim emmaim jos fune put ar benule kipaz ot ca romeuv sisgisvok. Hi gojabkit fiflu na rulev nit fokfamuc ni ro ma gapaufi ah jofib. Kuvatuk cahjozzer val fomja posiw go tihfutve rej wi gekuz unioli cewinju dim gaecebu ti muakumim tuac. Bew ohgo amkuuj hatdati tuvne rejogenis mu gegteh di esan pitlage ze gojgube.",
+    "bio": "Gun bam haz rublo leli kood ot midsut eku umulid bavukeho ac medof rap pom fupjo. Bute vokubu sik kipunje duso zanelwum dopoplum za mig hiwvak du fugfeziw cij poz. Ozoleroh ri ke emliove ov bev pucri uhnaz oj ri holki dowo gak ge ziocanej vemgi ockimur. Mawritug ipi ihotiiba fuvalo pobahgec zabo eralun abja pagifsas voctonage gusgu weawege la ho mujojsa abeclak. Zoted orhi silap row podu jep todo pol sabzuew jihtekeg enetenvaf amfe ca. Efe takre pal uca sehuclig kom pav fiesdaf up cimic ri otezu bap ralezom wuzudaho kemhujwud tala fari."
+  },
+  "apiKey": "610668bc24954288f440ea78d2fa653b238b757a783087b5030aa6f046633ef2",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
